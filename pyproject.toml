@@ -11,7 +11,6 @@ include = ["README.md"]
 python = ">=3.5"
 matplotlib = "^3.5.0"
 giotto-ph = "^0.2.0"
-torch = "^=1.12.1"
 gudhi = "^3.4.1"
 POT = "^0.8.0"
 
@@ -20,7 +19,6 @@ pytest = ">=5.2"
 Sphinx = ">=3.3.1"
 sphinx-rtd-theme = "^1.0.0"
 tqdm = "^4.62.3"
-torchvision = "^=0.13.1"
 flake8 = "^4.0.1"
 
 [tool.black]
